@@ -1,0 +1,23 @@
+# 📸 NOMBRES DE LAS 11 FOTOS DE LA GALERÍA
+
+Copia tus fotos a la misma carpeta del HTML y renómbralas EXACTAMENTE así:
+
+foto-01.jpg
+foto-02.jpg
+foto-03.jpg
+foto-04.jpg
+foto-05.jpg
+foto-06.jpg
+foto-07.jpg
+foto-08.jpg
+foto-09.jpg
+foto-10.jpg
+foto-11.jpg
+
+⚠️ IMPORTANTE:
+- Usa EXACTAMENTE estos nombres (minúsculas, guiones, ceros)
+- Pueden ser .jpg o .png (cambia la extensión en el HTML si usas .png)
+- Si una foto no existe, aparecerá un ícono de imagen rota (normal)
+- Las fotos se ajustan automáticamente al tamaño de la galería
+
+🎮 FHOLLKEN PC GAMER
