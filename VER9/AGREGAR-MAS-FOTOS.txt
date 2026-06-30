@@ -1,0 +1,65 @@
+# ➕ CÓMO AGREGAR MÁS FOTOS (ILIMITADAS)
+
+## MÉTODO RÁPIDO: Copiar y pegar
+
+### Paso 1: Abre el archivo fhollken-pc-gamer.html con cualquier editor de texto
+
+### Paso 2: Busca la última foto de la galería
+Presiona Ctrl+F y busca: foto-11.jpg
+
+### Paso 3: Copia este bloque completo (desde <!-- hasta </div>):
+
+<!-- 11: foto-11.jpg -->
+<div class="gallery-item" data-category="consolas" onclick="openLightboxImg('foto-11.jpg','Proyecto 11 - FHOLLKEN PC GAMER')">
+<img src="foto-11.jpg" alt="Proyecto 11">
+<div class="gallery-item-overlay">
+<h4>Proyecto 11</h4>
+<p>PC Gamer / Mantenimiento / Consola</p>
+</div>
+</div>
+
+### Paso 4: Pégalo DEBAJO del último </div>
+
+### Paso 5: Cambia los números:
+- foto-11.jpg → foto-12.jpg
+- Proyecto 11 → Proyecto 12
+- data-category="consolas" → puedes cambiar a: gamer / mantenimiento / consolas
+
+### Resultado:
+
+<!-- 12: foto-12.jpg -->
+<div class="gallery-item" data-category="gamer" onclick="openLightboxImg('foto-12.jpg','Proyecto 12 - FHOLLKEN PC GAMER')">
+<img src="foto-12.jpg" alt="Proyecto 12">
+<div class="gallery-item-overlay">
+<h4>Proyecto 12</h4>
+<p>PC Gamer / Mantenimiento / Consola</p>
+</div>
+</div>
+
+### Paso 6: Guarda (Ctrl+S) y listo
+
+---
+
+## CATEGORÍAS DISPONIBLES
+
+| Categoría | Filtro en la web |
+|-----------|-----------------|
+| gamer | PC Gamer |
+| mantenimiento | Mantenimiento |
+| consolas | Consolas |
+
+---
+
+## EJEMPLO CON 15 FOTOS
+
+foto-01.jpg hasta foto-15.jpg
+
+Cada una con su propio bloque copiado y pegado.
+
+---
+
+## 💡 TIP
+Si quieres que yo te prepare la web con 20, 30 o 50 slots listos,
+solo dime cuántas quieres y las programo de una vez.
+
+FHOLLKEN PC GAMER 💀🎮
