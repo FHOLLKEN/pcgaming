@@ -3,11 +3,8 @@ Allow: /
 Disallow: /private/
 Disallow: /admin/
 
-Sitemap: https://fhollken.github.io/sitemap.xml
+Sitemap: https://fhollken.github.io/pcgaming/sitemap.xml
 
-# Crawl-delay: 10
-
-# Allow all major search engines
 User-agent: Googlebot
 Allow: /
 

@@ -2,12 +2,12 @@
   "name": "FHOLLKEN PC GAMER",
   "short_name": "FHOLLKEN PC",
   "description": "Servicio técnico especializado en PC Gamer. Ensambles, mantenimiento, reparación y limpieza de consolas en Chile.",
-  "start_url": "/",
+  "start_url": "/pcgaming/",
   "display": "standalone",
   "background_color": "#050508",
   "theme_color": "#050508",
   "orientation": "portrait-primary",
-  "scope": "/",
+  "scope": "/pcgaming/",
   "lang": "es-CL",
   "icons": [
     {
