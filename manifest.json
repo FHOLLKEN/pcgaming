@@ -1,0 +1,32 @@
+{
+  "name": "FHOLLKEN PC GAMER",
+  "short_name": "FHOLLKEN PC",
+  "description": "Servicio técnico especializado en PC Gamer. Ensambles, mantenimiento, reparación y limpieza de consolas en Chile.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050508",
+  "theme_color": "#050508",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "es-CL",
+  "icons": [
+    {
+      "src": "logo-fhollken.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "technology", "shopping"],
+  "screenshots": [
+    {
+      "src": "logo-fhollken.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "FHOLLKEN PC GAMER - Servicio Técnico"
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false
+}
